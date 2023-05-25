@@ -1,0 +1,21 @@
+﻿SigTipoGeracao,DscFonteGeracao,NomRegiao,HorasGeracao
+UTE,Biogás - RU,Sudeste,5.7
+UTE,Biogás - RA,Centro Oeste,23.6
+UTE,Biogás-AGR,Centro Oeste,23.6
+UTE,Biogás - Floresta,Centro Oeste,23.6
+UTE,Biogás - RA,Sudeste,13.2
+UTE,Biogás-AGR,Sudeste,13.2
+UTE,Biogás - Floresta,Sudeste,13.2
+UTE,Casca de Arroz,Sudeste,6.8
+UTE,Lenha,Sudeste,6.8
+UTE,Resíduos Florestais,Sudeste,6.8
+UTE,Resíduos Sólidos Urbanos - RU,Sudeste,6.8
+UTE,Bagaço de Cana de Açúcar,Sudeste,6.8
+UTE,Gás de Alto Forno - Biomassa,Sudeste,6.8
+EOL,Cinética do vento,Nordeste,9.3
+CGH,Potencial hidráulico,Sudeste,10.6
+UFV,Radiação solar,Centro Oeste,5
+UFV,Radiação solar,Nordeste,6
+UFV,Radiação solar,Sudeste,6.7
+UFV,Radiação solar,Sul,6
+,Gás Natural,,6.5
