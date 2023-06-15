@@ -1,6 +1,6 @@
 ### SELEÇÃO DE USINAS PARA GERAÇÃO DISTRIBUÍDA
 
-[Documentação](https://edgarflauzino.notion.site/edgarflauzino/lemon-energia-case-de00893434634e249fec143d586ae76c)
+[Documentação](https://edgarflauzino.notion.site/Sele-o-de-usinas-em-gera-o-distribu-da-de00893434634e249fec143d586ae76c?pvs=4)
 
 Projeto feito como parte de um case. A ideia é entender a [base de dados da ANEEL](https://dadosabertos.aneel.gov.br/dataset/relacao-de-empreendimentos-de-geracao-distribuida) e fazer uma seleção de potenciais usinas e análise com objetivo de aumentar a capacidade de geração da empresa em 7GWh/mês.
 
